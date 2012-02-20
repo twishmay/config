@@ -1,9 +1,8 @@
 
 
-source alias.bashrc
-source exports.bashrc
-source shell.bashrc
-source export.bashrc
-source custmo.bashrc
+source $CONFIG/bash/alias.bashrc
+source $CONFIG/bash/shell.bashrc
+source $CONFIG/bash/export.bashrc
+source $CONFIG/bash/custom.bashrc
 
 
